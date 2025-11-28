@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "name": "NutriChat - AI Nutrition Tracker",
+  "description": "A conversational nutrition tracker powered by Gemini. Chat with the AI to log your meals and track your daily macros effortlessly."
+}
